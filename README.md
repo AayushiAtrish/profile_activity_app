@@ -26,7 +26,7 @@ A sleek and modern Profile Page UI built with Flutter. Inspired by financial and
 
 ## 📱 Screenshots
 
-
+![image alt]([image_url](https://github.com/AayushiAtrish/profile_activity_app/blob/29d0d6fb0e6a7c8c509bbb7eb69dc7105cef47ad/Screenshot%202025-05-19%20191342.png))
 
 ---
 
