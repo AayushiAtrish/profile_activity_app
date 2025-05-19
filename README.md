@@ -48,7 +48,9 @@ assets/
 
 bash
 git clone https://github.com/AayushiAtrish/profile_activity_app.git
-cd flutter-profile-ui
+
+cd flutter-profile_page
+
 Install Dependencies
 
 bash
