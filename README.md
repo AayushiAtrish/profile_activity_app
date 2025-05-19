@@ -47,7 +47,7 @@ assets/
 1. Clone the Repository
 
 bash
-git clone [https://github.com/your-username/flutter-profile-ui.git](https://github.com/AayushiAtrish/profile_activity_app.git)
+git clone https://github.com/AayushiAtrish/profile_activity_app.git
 cd flutter-profile-ui
 Install Dependencies
 
